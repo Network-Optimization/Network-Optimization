@@ -4,7 +4,7 @@
 
 # Ying Zhou (周瀛)
 
-**Ph.D. Candidate** @ Beijing Jiaotong University
+**AI Infrastructure Engineer** @ Moore Threads · Ph.D., BJTU
 
 [![Homepage](https://img.shields.io/badge/Homepage-network--optimization.github.io-blue?style=flat&logo=googlechrome)](https://network-optimization.github.io/)
 [![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-Author_Profile-00629B?style=flat&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/37087009843)
@@ -15,16 +15,16 @@
 
 ## About Me
 
+- 💼 **Current**: Joining **Moore Threads** (摩尔线程) as AI Infrastructure Engineer
 - 🔬 **Research**: Distributed networks, data center networks, federated learning, AI infrastructure
-- 🎓 **Education**: Ph.D. @ BJTU (2020–) | B.E. @ China University of Petroleum (GPA **1/60**)
-- 💼 **Seeking**: AI Infra Engineer / High-Performance Networking Engineer (Beijing · Shanghai · Shenzhen)
+- 🎓 **Education**: Ph.D. @ BJTU (2026) | B.E. @ China University of Petroleum (GPA **1/60**)
 - 📫 **Contact**: 22110019@bjtu.edu.cn
 
 ## Highlights
 
 | Area | Details |
 |------|---------|
-| 📄 Publications | TCE (IF 10.9), ToN (CCF-A), ICASSP (CCF-B), INFOCOM/CCS under review |
+| 📄 Publications | TCE, ToN (CCF-A), ICASSP (CCF-B), INFOCOM/CCS under review |
 | 🏆 Awards | CUMCM National First Prize (Top 0.3%), Huawei Cup National 2nd/3rd Prize |
 | 💻 Industry | AI Infra @ Qingcheng Zhiji, Algorithm @ China Mobile, Research @ SUAT |
 
