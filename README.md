@@ -32,7 +32,7 @@
 
 - 🌐 **[Academic Homepage](https://network-optimization.github.io/)** — full CV, publications & projects
 - 📂 **[LoongX](https://github.com/jhlxp/loongx)** — SimAI communication layer extension
-- 📂 **[Network Simulation](https://gitee.com/zhouyingbjtu/docker-network-simulation-master)** — OSPF/LISP Mininet project
+- 📂 **[DockerNetworkSimulation](https://github.com/Network-Optimization/DockerNetworkSimulation)** — OSPF/LISP Mininet project
 
 ---
 
