@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://network-optimization.github.io/images/avatar.png" width="180" style="border-radius: 50%;" alt="Ying Zhou">
+
 # Ying Zhou (周瀛)
 
 **Ph.D. Candidate** @ Beijing Jiaotong University
