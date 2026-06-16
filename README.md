@@ -17,7 +17,7 @@
 
 - 💼 **Current**: Joining **Moore Threads** (摩尔线程) as AI Infrastructure Engineer
 - 🔬 **Research**: Distributed networks, data center networks, federated learning, AI infrastructure
-- 🎓 **Education**: Ph.D. @ BJTU (2026) | B.E. @ CUPB Karamay (GPA **1/60**)
+- 🎓 **Education**: Ph.D. @ BJTU (2026) | B.E. @ China University of Petroleum (Beijing) (GPA **1/60**)
 - 📫 **Contact**: 22110019@bjtu.edu.cn
 
 ## Highlights
